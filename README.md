@@ -1,6 +1,6 @@
 # TGR-sediment-fatty-acids
 This repository contains data and scripts relevant to the manuscript 'Seasonal patterns and phytoplankton blooms influence sediment FA composition in a large reservoir'. Description of data columns are in the sections below.
-
+# Phytoplankton #
 #### TGR_phytoplankton_2021.csv” contains phytoplankton data from Pengxi and Modao Rivers in the Three Gorges Reservoir, China, collected in 2021. The data includes three sampling periods: a single event in Winter and Summer, and daily samples for 7 days during Spring, which coincided with the peak of the phytoplankton bloom. The data is organized by river (PX and MD), with multiple sites (e.g., PX1, PX2, MD1, MD2) and locations within each site.
 - year = observation year (2021)
 - month = 3 levels: March, May and September
