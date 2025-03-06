@@ -2,24 +2,24 @@
 This repository contains data and scripts relevant to the manuscript 'Seasonal patterns and phytoplankton blooms influence sediment FA composition in a large reservoir'. Description of data columns are in the sections below.
 # Data sets #
 Variables common across data sets:
-•	year = observation year
-•	month = 3 levels: March, May and September
-•	season = 3 levels: winter, spring and summer
-•	date = (dd/mm/yyyy format)
-•	river = 2 rivers including Pengxi (PX) and Modao (MD)
-•	site = (e.g., PX4, MD4 etc.)
-•	ID = Identifier combining month (in numeric value) and site (e.g., 9-PX-1)
+- year = observation year
+- month = 3 levels: March, May and September
+- season = 3 levels: winter, spring and summer
+- date = (dd/mm/yyyy format)
+- river = 2 rivers including Pengxi (PX) and Modao (MD)
+- site = (e.g., PX4, MD4 etc.)
+- ID = Identifier combining month (in numeric value) and site (e.g., 9-PX-1)
 
 #### ‘TGR_phytoplankton_2021.csv’ contains phytoplankton data from Pengxi and Modao Rivers in the Three Gorges Reservoir, China, collected in 2021. The data includes three sampling periods: a single event in Winter and Summer, and daily samples for 7 days during Spring, which coincided with the peak of the phytoplankton bloom. 
 Variable specific to data set:
-•	category = Phytoplankton and microalgae phylum
-•	name = Common name of the phytoplankton species
-•	latin name = Scientific name of species
-•	biomass = Biomass of the phytoplankton species (in mg/L)
-•	amount = Count of the phytoplankton species observed
-•	total_biomass = Total biomass calculated for the species (biomass * amount)
-•	total_biomass_mgL = Total biomass expressed in milligrams per liter (mg/L)
-•	density_individualL = Density of individuals per liter (individuals/L)
+- category = Phytoplankton and microalgae phylum
+- name = Common name of the phytoplankton species
+- latin name = Scientific name of species
+- biomass = Biomass of the phytoplankton species (in mg/L)
+- amount = Count of the phytoplankton species observed
+- total_biomass = Total biomass calculated for the species (biomass * amount)
+- total_biomass_mgL = Total biomass expressed in milligrams per liter (mg/L)
+- density_individualL = Density of individuals per liter (individuals/L)
 
 #### ‘TGR_SI_2021_22.csv’ contains stable isotope data from Pengxi and Modao Rivers in the Three Gorges Reservoir, China, collected in 2021 and 2022. The data includes three sampling periods: a single event in Winter and Summer, and daily samples for 7 days during Spring, which coincided with the peak of the phytoplankton bloom. 
 Variable specific to data set:
