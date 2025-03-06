@@ -10,6 +10,7 @@ Variables common across data sets:
 - site = (e.g., PX4, MD4 etc.)
 - ID = Identifier combining month (in numeric value) and site (e.g., 9-PX-1)
 
+
 #### ‘TGR_phytoplankton_2021.csv’ - contains phytoplankton data from Pengxi and Modao Rivers in the Three Gorges Reservoir, China, collected in 2021. The data includes three sampling periods: a single event in Winter and Summer, and daily samples for 7 days during Spring, which coincided with the peak of the phytoplankton bloom. 
 Variable specific to data set:
 - category = Phytoplankton and microalgae phylum
@@ -31,11 +32,13 @@ Variable specific to data set:
 -	N% = Percentage of nitrogen in the sample
 -	N15/N14 = ratio of Nitrogen-15 to Nitrogen-14 isotopes	
 
+
 #### ‘TGR_sediment_FA_2021.csv’ - contains sediment fatty acid data collected in 2021 from six sites in the Pengxi and Modao Rivers of the Three Gorges Reservoir, China (PX4-PX6, MD2-MD3). Fatty acids are labelled using standard nomenclature.
 -	full_ID = Unique identifier for each sample (includes full date, site and river)
 -	sample = Type of sample (sediment)
 -	type = Type of measurement (relative or absolute)
 -	Fatty Acid Columns = Various fatty acid measurements (e.g., 10_0, 12_0, 13_0, etc.)
+
 
 #### TGR_surface_benthic_water_quality_2021.csv’ - contains water quality and nutrient data collected in 2021 from six sites in the Pengxi and Modao Rivers of the Three Gorges Reservoir, China (PX4-PX6, MD2-MD3). Measurements were taken from the surface (0.5 m below the surface) and benthic (0.5 m above the bottom) zones. Note: "Chla_single" refers to samples processed in the lab, while "Chlorophyll" refers to measurements taken in situ using the data logger.
 -	Layer = Includes benthic or surface 
@@ -59,6 +62,7 @@ Variable specific to data set:
 -	DO_conc = dissolved oxygen (mg L-1)
 -	absolute_depth = total depth of water column (m)
 -	velocity_ms = (m s-1)
+
 
 #### TGR_ water_quality_profiles_2021.csv’ - contains water quality profiles 2021 from six sites in the Pengxi and Modao Rivers of the Three Gorges Reservoir, China (PX4-PX6, MD2-MD3). Profiles were measured using a RBRmaestro3 data logger. 
 -	Conductivity = (S cm-1)
