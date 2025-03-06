@@ -10,7 +10,7 @@ Variables common across data sets:
 - site = (e.g., PX4, MD4 etc.)
 - ID = Identifier combining month (in numeric value) and site (e.g., 9-PX-1)
 
-#### ‘TGR_phytoplankton_2021.csv’ - contains phytoplankton data from Pengxi and Modao Rivers in the Three Gorges Reservoir, China, collected in 2021. The data includes three sampling periods: a single event in Winter and Summer, and daily samples for 7 days during Spring, which coincided with the peak of the phytoplankton bloom. 
+#### ‘TGR_phytoplankton_2021.csv’ - #### contains phytoplankton data from Pengxi and Modao Rivers in the Three Gorges Reservoir, China, collected in 2021. The data includes three sampling periods: a single event in Winter and Summer, and daily samples for 7 days during Spring, which coincided with the peak of the phytoplankton bloom. 
 Variable specific to data set:
 - category = Phytoplankton and microalgae phylum
 - name = Common name of the phytoplankton species
