@@ -74,5 +74,5 @@ Variable specific to data set:
 -	DO_conc = dissolved oxygen (mg L-1)	
 
 # R scripts #
-'Fatty acid and Chla barplot V1.0.R' - Script for making Figure 2. 
-'Phytoplankton barplot V1.0.R' - Script for making Figure 3.
+- 'Fatty acid and Chla barplot V1.0.R' - Script for making Figure 2. 
+- 'Phytoplankton barplot V1.0.R' - Script for making Figure 3.
