@@ -37,7 +37,7 @@ Variable specific to data set:
 -	type = Type of measurement (relative or absolute)
 -	Fatty Acid Columns = Various fatty acid measurements (e.g., 10_0, 12_0, 13_0, etc.)
 
-#### TGR_surface_benthic_water_quality_2021.csv’ - contains water quality and nutrient data collected in 2021 from six sites in the Pengxi and Modao Rivers of the Three Gorges Reservoir, China (PX4-PX6, MD2-MD3). Measurements were taken from the surface (0.5 m below the surface) and benthic (0.5 m above the bottom) zones. Note: "Chla_single" refers to samples processed in the lab, while "Chlorophyll" refers to measurements taken in situ using the data logger.
+#### 'TGR_surface_benthic_water_quality_2021.csv’ - contains water quality and nutrient data collected in 2021 from six sites in the Pengxi and Modao Rivers of the Three Gorges Reservoir, China (PX4-PX6, MD2-MD3). Measurements were taken from the surface (0.5 m below the surface) and benthic (0.5 m above the bottom) zones. Note: "Chla_single" refers to samples processed in the lab, while "Chlorophyll" refers to measurements taken in situ using the data logger.
 -	Layer = Includes benthic or surface 
 -	Location = Alternate identifier of layer
 -	TP = Total phosphorus (mg L-1)
@@ -60,7 +60,7 @@ Variable specific to data set:
 -	absolute_depth = total depth of water column (m)
 -	velocity_ms = (m s-1)
 
-#### TGR_ water_quality_profiles_2021.csv’ - contains water quality profiles 2021 from six sites in the Pengxi and Modao Rivers of the Three Gorges Reservoir, China (PX4-PX6, MD2-MD3). Profiles were measured using a RBRmaestro3 data logger. 
+#### 'TGR_water_quality_profiles_2021.csv’ - contains water quality profiles 2021 from six sites in the Pengxi and Modao Rivers of the Three Gorges Reservoir, China (PX4-PX6, MD2-MD3). Profiles were measured using a RBRmaestro3 data logger. 
 -	Conductivity = (S cm-1)
 -	temp = (°C)
 -	pressure = (dBar)
@@ -72,3 +72,7 @@ Variable specific to data set:
 -	conductivity_spc = Specific conductivity (S/m)
 -	density_anomaly = (kg/m3)
 -	DO_conc = dissolved oxygen (mg L-1)	
+
+# R scripts #
+'Fatty acid and Chla barplot V1.0.R' - Script for making Figure 2. 
+'Phytoplankton barplot V1.0.R' - Script for making Figure 3.
